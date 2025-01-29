@@ -1,0 +1,14 @@
+{
+  "name": "urchinmodels",
+  "version": "1.0.0",
+  "description": "Urchin Models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "agentscript": "^0.10.22"
+  }
+}
